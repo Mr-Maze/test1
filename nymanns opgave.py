@@ -5,6 +5,7 @@
 #Find the sum of all the multiples of 3 or 5 below 1000.
 
 #print "Sum of all natural numbers below 10, that are multiples of 3 or 5"
+#yaya
 
 def vardien_af_3_eller_5 ():
     for number in xrange(1000):
